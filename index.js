@@ -24,7 +24,7 @@ app.get('/manga/:mangaName/:episodeNumber',(req,res)=>{
     const mangaName = req.params.mangaName;
     const episodeNumber = req.params.episodeNumber;
     const folderPath = `${__dirname}/manga/${mangaName}/${episodeNumber}`;
-    const dosyaListesi = fs.readdirSync(klasorYolu)
+    const dosyaListesi = fs.readdirSync(folderPath)
   .filter((dosyaAdi) => {
     // Dosya uzantısını al
     const dosyaUzantisi = path.extname(dosyaAdi);
@@ -36,14 +36,11 @@ app.get('/manga/:mangaName/:episodeNumber',(req,res)=>{
     dosyaAdi,
     sayiDegeri: parseInt(path.basename(dosyaAdi, '.jpg'), 10), // Sayı değerini al
   }))
-  .sort((a, b) => b.sayiDegeri - a.sayiDegeri) // Büyükten küçüğe sırala
-  //res.json({fileList:dosyaListesi});
+  .sort((a, b) => a.sayiDegeri - b.sayiDegeri) // Büyükten küçüğe sırala
+  res.json({fileList:dosyaListesi});
   //res.json({fileList:[1,2,3,4,5,6]});
-  res.json('deneme');
+  
 });
-
-
-
 
 app.listen(PORT,()=>{
     console.log('Server is running on port',PORT)
