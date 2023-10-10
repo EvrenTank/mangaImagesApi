@@ -42,6 +42,14 @@ app.get('/manga/:mangaName/:episodeNumber',(req,res)=>{
   res.json('deneme');
 });
 
+app.get('/manga/:mangaName/:episodeNumber',(req,res)=>{
+    const mangaName = req.params.mangaName;
+    const episodeNumber = req.params.episodeNumber;
+
+  res.json('deneme yapmak isitiyırkrjg');
+});
+
+
 app.listen(PORT,()=>{
     console.log('Server is running on port',PORT)
 })
