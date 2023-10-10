@@ -8,7 +8,7 @@ app.use(cors());
 const PORT = process.env.PORT || 8080;
 
 app.get('/',(req,res)=>{
-    res.json('deneme');
+    res.json('deneme yapıyorum');
 })
 
 app.get('/manga/:mangaName/:episodeNumber/:pageNumber',(req,res)=>{
