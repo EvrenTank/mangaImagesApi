@@ -38,7 +38,8 @@ app.get('/manga/:mangaName/:episodeNumber',(req,res)=>{
   }))
   .sort((a, b) => b.sayiDegeri - a.sayiDegeri) // Büyükten küçüğe sırala
   //res.json({fileList:dosyaListesi});
-  res.json({fileList:[1,2,3,4,5,6]});
+  //res.json({fileList:[1,2,3,4,5,6]});
+  res.json('deneme');
 });
 
 app.listen(PORT,()=>{
