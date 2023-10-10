@@ -20,7 +20,7 @@ app.get('/manga/:mangaName/:episodeNumber/:pageNumber',(req,res)=>{
     res.sendFile(imagePath);
 });
 
-/*app.get('/manga/:mangaName/:episodeNumber',(req,res)=>{
+app.get('/manga/:mangaName/:episodeNumber',(req,res)=>{
     const mangaName = req.params.mangaName;
     const episodeNumber = req.params.episodeNumber;
     const folderPath = `${__dirname}/manga/${mangaName}/${episodeNumber}`;
@@ -41,13 +41,8 @@ app.get('/manga/:mangaName/:episodeNumber/:pageNumber',(req,res)=>{
   //res.json({fileList:[1,2,3,4,5,6]});
   res.json('deneme');
 });
-*/
-app.get('/manga/:mangaName/:episodeNumber',(req,res)=>{
-    const mangaName = req.params.mangaName;
-    const episodeNumber = req.params.episodeNumber;
 
-  res.json('deneme yapmak isitiyırkrjg');
-});
+
 
 
 app.listen(PORT,()=>{
