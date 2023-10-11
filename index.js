@@ -45,15 +45,12 @@ app.get('/manga/:mangaName',(req,res)=>{
   const mangaName = req.params.mangaName;
   console.log("Manga Name===",mangaName);
   const folderPath = `${__dirname}/informationsAboutMangas/informations.json`;
-  
-
   fs.readFile(folderPath, 'utf8', (err, data) => {
     if (err) {
         console.error('JSON dosyası okunurken hata oluştu:', err);
         res.status(500).json({ error: 'Veri okunamadı' });
         return;
     }
-    
     try {
         const jsonVeri = JSON.parse(data);
         console.log('JSON verisi:', jsonVeri);
@@ -72,6 +69,34 @@ app.get('/manga/:mangaName',(req,res)=>{
     }
 });
 });
+
+app.get('lastEpisodes', function (req, res) {
+  const folderPath = `${__dirname}/lastEpisodes/lastEpisodes.json`;
+  fs.readFile(folderPath, 'utf8', (err, data) => {
+    if (err) {
+        console.error('JSON dosyası okunurken hata oluştu:', err);
+        res.status(500).json({ error: 'Veri okunamadı' });
+        return;
+    }
+    try {
+        const jsonVeri = JSON.parse(data);
+        console.log('JSON verisi:', jsonVeri);
+        // JSON verisini kullanabiliriz, şimdi aradığımız elemanı bulmaya çalışalım
+        const lastEpisodes = jsonVeri.informations.slice(0,12);
+              console.log('last episodes', lastEpisodes);
+
+        if (bulunanManga) {
+            res.json({lastEpisodes:lastEpisodes}); // Bulunan elemanı JSON olarak döndür
+        } else {
+            res.status(404).json({ error: 'Bulunamadı' });
+        }
+    } catch (parseHata) {
+        console.error('JSON verisi ayrıştırılırken hata oluştu:', parseHata);
+        res.status(500).json({ error: 'Veri ayrıştırılamadı' });
+    }
+});
+
+})
   
 
 app.listen(PORT,()=>{

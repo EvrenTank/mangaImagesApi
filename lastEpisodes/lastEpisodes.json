@@ -1,0 +1,73 @@
+{
+    "informations": [
+        {
+            "name": "naruto",
+            "episodeNumber":"700",
+            "addingDate":"11.10.2023"
+        }
+        ,
+        {
+            "name": "onepiece",
+            "episodeNumber":"1200",
+            "addingDate":"11.10.2023"
+        }
+        ,
+        {
+            "name": "onepunchman",
+            "episodeNumber":"198",
+            "addingDate":"11.10.2023"
+        }
+        ,
+        {
+            "name": "bleach",
+            "episodeNumber":"641",
+            "addingDate":"10.10.2023"
+        },
+        {
+            "name": "beelzebub",
+            "episodeNumber":"273",
+            "addingDate":"09.10.2023"
+        },
+        {
+            "name": "blackclover",
+            "episodeNumber":"352",
+            "addingDate":"09.10.2023"
+        }
+        ,               {
+            "name": "naruto",
+            "episodeNumber":"699",
+            "addingDate":"09.10.2023"
+        }
+        ,
+        {
+            "name": "onepiece",
+            "episodeNumber":"1199",
+            "addingDate":"08.10.2023"
+        }
+        ,
+        {
+            "name": "onepunchman",
+            "episodeNumber":"197",
+            "addingDate":"08.10.2023"
+        }
+        ,
+        {
+            "name": "bleach",
+            "episodeNumber":"640",
+            "addingDate":"07.10.2023"
+        },
+        {
+            "name": "beelzebub",
+            "episodeNumber":"272",
+            "addingDate":"07.10.2023"
+        },
+        {
+            "name": "blackclover",
+            "episodeNumber":"351",
+            "addingDate":"06.10.2023"
+        }
+
+    ]
+}
+
+
