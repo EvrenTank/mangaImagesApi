@@ -41,6 +41,38 @@ app.get('/manga/:mangaName/:episodeNumber',(req,res)=>{
   //res.json({fileList:[1,2,3,4,5,6]});
   
 });
+app.get('/manga/:mangaName',(req,res)=>{
+  const mangaName = req.params.mangaName;
+  console.log("Manga Name===",mangaName);
+  const folderPath = `${__dirname}/informationsAboutMangas/informations.json`;
+  
+
+  fs.readFile(folderPath, 'utf8', (err, data) => {
+    if (err) {
+        console.error('JSON dosyası okunurken hata oluştu:', err);
+        res.status(500).json({ error: 'Veri okunamadı' });
+        return;
+    }
+    
+    try {
+        const jsonVeri = JSON.parse(data);
+        console.log('JSON verisi:', jsonVeri);
+        // JSON verisini kullanabiliriz, şimdi aradığımız elemanı bulmaya çalışalım
+        const bulunanManga = jsonVeri.informations.find(manga => manga.name == mangaName); // Hata bu kodda olabilir. Dikkat etmek lazım.
+        console.log('Bulunan manga', bulunanManga);
+
+        if (bulunanManga) {
+            res.json({bulunanManga:bulunanManga}); // Bulunan elemanı JSON olarak döndür
+        } else {
+            res.status(404).json({ error: 'Aranan manga bulunamadı' });
+        }
+    } catch (parseHata) {
+        console.error('JSON verisi ayrıştırılırken hata oluştu:', parseHata);
+        res.status(500).json({ error: 'Veri ayrıştırılamadı' });
+    }
+});
+});
+  
 
 app.listen(PORT,()=>{
     console.log('Server is running on port',PORT)

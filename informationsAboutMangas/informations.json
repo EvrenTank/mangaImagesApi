@@ -1,0 +1,79 @@
+{
+    "informations": [
+        {
+            "name": "naruto",
+            "nedir":"Manga",
+            "goruntuleme":10000,
+            "yayinYili":2007,
+            "ceviriTamamlanmis":false,
+            "yayinTamamlanmis":true,
+            "kategori":["Aksiyon","Drama","Fantezi","Dövüş Sanatları","Shounen","Doğaüstü"],
+            "ceviriGrubu":"Bağımsız",
+            "konu":"Naruto serisine mini spin-off olarak çizilmiş manga. Naruto'nun oğlunu ve gelecek nesil ninjaları konu almaktadır.",
+            "kullanilanOySayisi":1000,
+            "rating": 4.5,
+            "takipciSayisi": 270
+        },
+        {
+            "name": "onepiece",
+            "nedir":"Manga",
+            "goruntuleme":20000,
+            "yayinYili":2005,
+            "ceviriTamamlanmis":false,
+            "yayinTamamlanmis":false,
+            "kategori":["Aksiyon","Drama","Fantezi","Dövüş Sanatları","Shounen","Doğaüstü"],
+            "ceviriGrubu":" Karayip Korsanları",
+            "konu":"One Piece manga serisi Monkey D. Luffy adlı genç bir korsanın One Piece adlı efsanevi hazineyi bulmak için maceralarla dolu bir yolculuğa çıkmasını konu alır. Bu epik hikâye Luffy'nin mürettebatını toplaması rakiplerle karşılaşması ve fantastik bir dünyada tehlikelerle yüzleşmesi üzerine kuruludur.",
+            "kullanilanOySayisi":1000,
+            "rating": 4.4,
+            "takipciSayisi": 830
+        }
+        ,
+        {
+            "name": "bleach",
+            "nedir":"Manga",
+            "goruntuleme":20000,
+            "yayinYili":2005,
+            "ceviriTamamlanmis":false,
+            "yayinTamamlanmis":false,
+            "kategori":["Aksiyon","Drama","Fantezi","Dövüş Sanatları","Shounen","Doğaüstü"],
+            "ceviriGrubu":" Karayip Korsanları",
+            "konu":"Seri, 15 yaşındaki hayaletleri görme yeteneği olan bir lise öğrencisi (Ichigo Kurosaki)'nin hayatını anlatır. Rukia Kuchiki isimli bir Shinigami (Ölüm Meleği) bir gün bir Hollow'u (Kötü Ruh) takip ederken Ichigo ile karşılaşır. Kötü Ruh ile savaşırken yaralanmasından dolayı güçlerini Ichigo'ya aktarmak zorunda kalır.",
+            "kullanilanOySayisi":1000,
+            "rating": 4.1,
+            "takipciSayisi": 335
+        }
+        ,
+        {
+            "name": "beelzebub",
+            "nedir":"Manga",
+            "goruntuleme":200,
+            "yayinYili":2009,
+            "ceviriTamamlanmis":true,
+            "yayinTamamlanmis":true,
+            "kategori":["Aksiyon","Fantezi","Dövüş Sanatları","Shounen","Doğaüstü","Lise"],
+            "ceviriGrubu":" Karayip Korsanları",
+            "konu":"Konusu. İblislerin kralı, oğlu Prens Beelzebub'u dünyaya gönderir. Ancak dünyayı yıkacak ve dengeyi yok edecek bu prens, halen bir bebektir. Ishiyama Lisesi'nde okuyan bir serseri olan Tatsumi Oga, şartlar gereği kendini bir anda Beelzebub adlı bu bebeğin bakıcısı olarak bulur.",
+            "kullanilanOySayisi":1000,
+            "rating": 4.1,
+            "takipciSayisi": 200
+        }
+        ,
+        {
+            "name": "onepunchman",
+            "nedir":"Manga",
+            "goruntuleme":20000,
+            "yayinYili":2005,
+            "ceviriTamamlanmis":false,
+            "yayinTamamlanmis":false,
+            "kategori":["Aksiyon","Drama","Fantezi","Dövüş Sanatları","Shounen","Doğaüstü"],
+            "ceviriGrubu":" Karayip Korsanları",
+            "konu":"One Piece manga serisi Monkey D. Luffy adlı genç bir korsanın One Piece adlı efsanevi hazineyi bulmak için maceralarla dolu bir yolculuğa çıkmasını konu alır. Bu epik hikâye Luffy'nin mürettebatını toplaması rakiplerle karşılaşması ve fantastik bir dünyada tehlikelerle yüzleşmesi üzerine kuruludur.",
+            "kullanilanOySayisi":1000,
+            "rating": 4.4,
+            "takipciSayisi": 830
+        }
+    ]
+}
+
+
