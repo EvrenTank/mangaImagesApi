@@ -85,7 +85,7 @@ app.get('/lastEpisodes', function (req, res) {
         const lastEpisodes = jsonVeri.informations.slice(0,12);
               console.log('last episodes', lastEpisodes);
 
-        if (bulunanManga) {
+        if (lastEpisodes) {
             res.json({lastEpisodes:lastEpisodes}); // Bulunan elemanı JSON olarak döndür
         } else {
             res.status(404).json({ error: 'Bulunamadı' });
