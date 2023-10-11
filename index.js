@@ -70,7 +70,7 @@ app.get('/manga/:mangaName',(req,res)=>{
 });
 });
 
-app.get('lastEpisodes', function (req, res) {
+app.get('/lastEpisodes', function (req, res) {
   const folderPath = `${__dirname}/lastEpisodes/lastEpisodes.json`;
   fs.readFile(folderPath, 'utf8', (err, data) => {
     if (err) {
