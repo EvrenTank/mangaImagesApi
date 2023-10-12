@@ -62,16 +62,31 @@
         {
             "name": "onepunchman",
             "nedir":"Manga",
-            "goruntuleme":20000,
-            "yayinYili":2005,
-            "ceviriTamamlanmis":false,
+            "goruntuleme":18800,
+            "yayinYili":2012,
+            "ceviriTamamlanmis":true,
             "yayinTamamlanmis":false,
             "kategori":["Aksiyon","Drama","Fantezi","Dövüş Sanatları","Shounen","Doğaüstü"],
-            "ceviriGrubu":" Karayip Korsanları",
-            "konu":"One Piece manga serisi Monkey D. Luffy adlı genç bir korsanın One Piece adlı efsanevi hazineyi bulmak için maceralarla dolu bir yolculuğa çıkmasını konu alır. Bu epik hikâye Luffy'nin mürettebatını toplaması rakiplerle karşılaşması ve fantastik bir dünyada tehlikelerle yüzleşmesi üzerine kuruludur.",
-            "kullanilanOySayisi":1000,
-            "rating": 4.4,
-            "takipciSayisi": 830
+            "ceviriGrubu":"Tek Yumruk",
+            "konu":"Tek bir yumrukla herhangi bir rakibi yenebilen, ancak ezici gücü nedeniyle meydan okuma eksikliğinden sıkıldıktan sonra değerli bir rakip bulmaya çalışan bir süper kahraman olan Saitama'nın hikâyesini anlatıyor.",
+            "kullanilanOySayisi":555,
+            "rating": 4.3,
+            "takipciSayisi": 1010
+        }
+        ,
+        {
+            "name": "blackclover",
+            "nedir":"Manga",
+            "goruntuleme":850,
+            "yayinYili":2015,
+            "ceviriTamamlanmis":false,
+            "yayinTamamlanmis":false,
+            "kategori":["Aksiyon","Drama","Fantezi","Büyü","Doğaüstü"],
+            "ceviriGrubu":"Yonca Çeviri",
+            "konu":"etim arkadaşı Yuno ile birlikte bir yetimhanede büyütülmek üzere bırakılan genç bir yetim olan Asta'ya odaklanıyor. Herkes manayı sihirli güç şeklinde kullanma yeteneği ile doğarken, Asta, ancak sihir olmadan, bunun yerine fiziksel güce odaklanır.",
+            "kullanilanOySayisi":500,
+            "rating": 4.0,
+            "takipciSayisi": 222
         }
     ]
 }
