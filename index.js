@@ -82,7 +82,7 @@ app.get('/lastEpisodes', function (req, res) {
         const jsonVeri = JSON.parse(data);
         console.log('JSON verisi:', jsonVeri);
         // JSON verisini kullanabiliriz, şimdi aradığımız elemanı bulmaya çalışalım
-        const lastEpisodes = jsonVeri.informations.slice(0,12);
+        const lastEpisodes = jsonVeri.informations;
               console.log('last episodes', lastEpisodes);
 
         if (lastEpisodes) {
