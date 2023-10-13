@@ -204,7 +204,8 @@
             "episodeNumber":"348",
             "addingDate":"01.10.2023"
         }
-        ,               {
+        ,               
+        {
             "name": "naruto",
             "title": "Naruto",
             "episodeNumber":"695",
@@ -242,6 +243,84 @@
             "title": "Black Clover",
             "episodeNumber":"347",
             "addingDate":"29.09.2023"
+        },
+        {
+            "name": "naruto",
+            "title": "Naruto",
+            "episodeNumber":"2",
+            "addingDate":"29.09.2023"
+        }
+        ,
+        {
+            "name": "onepiece",
+            "title": "One Piece",
+            "episodeNumber":"2",
+            "addingDate":"29.09.2023"
+        }
+        ,
+        {
+            "name": "onepunchman",
+            "title": "One Punch Man",
+            "episodeNumber":"2",
+            "addingDate":"29.09.2023"
+        }
+        ,
+        {
+            "name": "bleach",
+            "title": "Bleach",
+            "episodeNumber":"2",
+            "addingDate":"28.09.2023"
+        },
+        {
+            "name": "beelzebub",
+            "title": "Beelzebub",
+            "episodeNumber":"2",
+            "addingDate":"28.09.2023"
+        },
+        {
+            "name": "blackclover",
+            "title": "Black Clover",
+            "episodeNumber":"2",
+            "addingDate":"28.09.2023"
+        },
+        {
+            "name": "naruto",
+            "title": "Naruto",
+            "episodeNumber":"1",
+            "addingDate":"27.09.2023"
+        }
+        ,
+        {
+            "name": "onepiece",
+            "title": "One Piece",
+            "episodeNumber":"1",
+            "addingDate":"27.09.2023"
+        }
+        ,
+        {
+            "name": "onepunchman",
+            "title": "One Punch Man",
+            "episodeNumber":"1",
+            "addingDate":"26.09.2023"
+        }
+        ,
+        {
+            "name": "bleach",
+            "title": "Bleach",
+            "episodeNumber":"1",
+            "addingDate":"26.09.2023"
+        },
+        {
+            "name": "beelzebub",
+            "title": "Beelzebub",
+            "episodeNumber":"1",
+            "addingDate":"26.09.2023"
+        },
+        {
+            "name": "blackclover",
+            "title": "Black Clover",
+            "episodeNumber":"1",
+            "addingDate":"25.09.2023"
         }
 
     ]
