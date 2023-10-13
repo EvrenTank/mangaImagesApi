@@ -55,7 +55,7 @@ app.get('/manga/:mangaName',(req,res)=>{
         const jsonVeri = JSON.parse(data);
         console.log('JSON verisi:', jsonVeri);
         // JSON verisini kullanabiliriz, şimdi aradığımız elemanı bulmaya çalışalım
-        const bulunanManga = jsonVeri.informations.find(manga => manga.name == mangaName); // Hata bu kodda olabilir. Dikkat etmek lazım.
+        const bulunanManga = jsonVeri.informations.find(manga => manga.name == mangaName); 
         console.log('Bulunan manga', bulunanManga);
 
         if (bulunanManga) {

@@ -2,6 +2,7 @@
     "informations": [
         {
             "name": "naruto",
+            "title":"Naruto",
             "nedir":"Manga",
             "goruntuleme":10000,
             "yayinYili":2007,
@@ -16,6 +17,7 @@
         },
         {
             "name": "onepiece",
+            "title": "One Piece",
             "nedir":"Manga",
             "goruntuleme":20000,
             "yayinYili":2005,
@@ -31,6 +33,7 @@
         ,
         {
             "name": "bleach",
+            "title": "Bleach",
             "nedir":"Manga",
             "goruntuleme":20000,
             "yayinYili":2005,
@@ -46,6 +49,7 @@
         ,
         {
             "name": "beelzebub",
+            "title": "Beelzebub",
             "nedir":"Manga",
             "goruntuleme":200,
             "yayinYili":2009,
@@ -61,6 +65,7 @@
         ,
         {
             "name": "onepunchman",
+            "title": "One Punch Man",
             "nedir":"Manga",
             "goruntuleme":18800,
             "yayinYili":2012,
@@ -76,6 +81,7 @@
         ,
         {
             "name": "blackclover",
+            "name": "Black Clover",
             "nedir":"Manga",
             "goruntuleme":850,
             "yayinYili":2015,
