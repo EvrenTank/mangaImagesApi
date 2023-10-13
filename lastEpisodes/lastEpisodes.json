@@ -3,6 +3,13 @@
         {
             "name": "naruto",
             "title": "Naruto",
+            "episodeNumber":"701",
+            "addingDate":"13.10.2023"
+        }
+        ,
+        {
+            "name": "naruto",
+            "title": "Naruto",
             "episodeNumber":"700",
             "addingDate":"11.10.2023"
         }
