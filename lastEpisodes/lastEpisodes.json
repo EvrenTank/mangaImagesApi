@@ -4,6 +4,7 @@
             "name": "naruto",
             "title": "Naruto",
             "episodeNumber":"701",
+            "episodeName":"Final Savaşı:8",
             "addingDate":"13.10.2023"
         }
         ,
@@ -11,6 +12,7 @@
             "name": "naruto",
             "title": "Naruto",
             "episodeNumber":"700",
+            "episodeName":"Final Savaşı:7",
             "addingDate":"11.10.2023"
         }
         ,
@@ -18,6 +20,7 @@
             "name": "onepiece",
             "title": "One Piece",
             "episodeNumber":"1095",
+            "episodeName":"Korsanlar Kralı",
             "addingDate":"11.10.2023"
         }
         ,
@@ -25,6 +28,7 @@
             "name": "onepunchman",
             "title": "One Punch Man",
             "episodeNumber":"198",
+            "episodeName":"Karışıklık",
             "addingDate":"11.10.2023"
         }
         ,
@@ -32,24 +36,28 @@
             "name": "bleach",
             "title": "Bleach",
             "episodeNumber":"641",
+            "episodeName":"Hayalet Yakalama:3",
             "addingDate":"10.10.2023"
         },
         {
             "name": "beelzebub",
             "title": "Beelzebub",
             "episodeNumber":"273",
+            "episodeName":"Bebek Bakıcısı Oga",
             "addingDate":"09.10.2023"
         },
         {
             "name": "blackclover",
             "title": "Black Clover",
             "episodeNumber":"352",
+            "episodeName":"Son Savaş:3",
             "addingDate":"09.10.2023"
         }
         ,               {
             "name": "naruto",
             "title": "Naruto",
             "episodeNumber":"699",
+            "episodeName":"Final Savaşı:6",
             "addingDate":"09.10.2023"
         }
         ,
@@ -57,6 +65,7 @@
             "name": "onepiece",
             "title": "One Piece",
             "episodeNumber":"1094",
+            "episodeName":"İhanet:2",
             "addingDate":"08.10.2023"
         }
         ,
@@ -64,6 +73,7 @@
             "name": "onepunchman",
             "title": "One Punch Man",
             "episodeNumber":"197",
+            "episodeName":"Pelerinli Kel",
             "addingDate":"08.10.2023"
         }
         ,
@@ -71,18 +81,21 @@
             "name": "bleach",
             "title": "Bleach",
             "episodeNumber":"640",
+            "episodeName":"Hayalet Yakalama:2",
             "addingDate":"07.10.2023"
         },
         {
             "name": "beelzebub",
             "title": "Beelzebub",
             "episodeNumber":"272",
+            "episodeName":"Sevdiklerim İçin",
             "addingDate":"07.10.2023"
         },
         {
             "name": "blackclover",
             "title": "Black Clover",
             "episodeNumber":"351",
+            "episodeName":"Son Savaş:2",
             "addingDate":"06.10.2023"
         }
         ,
@@ -90,6 +103,7 @@
             "name": "naruto",
             "title": "Naruto",
             "episodeNumber":"698",
+            "episodeName":"Final Savaşı:5",
             "addingDate":"06.10.2023"
         }
         ,
@@ -97,6 +111,7 @@
             "name": "onepiece",
             "title": "One Piece",
             "episodeNumber":"1093",
+            "episodeName":"İhanet:1",
             "addingDate":"06.10.2023"
         }
         ,
@@ -104,6 +119,7 @@
             "name": "onepunchman",
             "title": "One Punch Man",
             "episodeNumber":"196",
+            "episodeName":"Tornado'nun Gazabı",
             "addingDate":"05.10.2023"
         }
         ,
@@ -111,24 +127,28 @@
             "name": "bleach",
             "title": "Bleach",
             "episodeNumber":"639",
+            "episodeName":"Hayalet Yakalama:1",
             "addingDate":"05.10.2023"
         },
         {
             "name": "beelzebub",
             "title": "Beelzebub",
             "episodeNumber":"271",
+            "episodeName":"Aileye Saldırı",
             "addingDate":"05.10.2023"
         },
         {
             "name": "blackclover",
             "title": "Black Clover",
             "episodeNumber":"350",
+            "episodeName":"Son Savaş:1",
             "addingDate":"04.10.2023"
         }
         ,               {
             "name": "naruto",
             "title": "Naruto",
             "episodeNumber":"697",
+            "episodeName":"Final Savaşı:4",
             "addingDate":"04.10.2023"
         }
         ,
@@ -136,6 +156,7 @@
             "name": "onepiece",
             "title": "One Piece",
             "episodeNumber":"1092",
+            "episodeName":"İç Karışıklık",
             "addingDate":"03.10.2023"
         }
         ,
@@ -143,6 +164,7 @@
             "name": "onepunchman",
             "title": "One Punch Man",
             "episodeNumber":"195",
+            "episodeName":"Gereksiz Öfke",
             "addingDate":"03.10.2023"
         }
         ,
@@ -150,18 +172,21 @@
             "name": "bleach",
             "title": "Bleach",
             "episodeNumber":"638",
+            "episodeName":"Bilinmezlik",
             "addingDate":"03.10.2023"
         },
         {
             "name": "beelzebub",
             "title": "Beelzebub",
             "episodeNumber":"270",
+            "episodeName":"İblislerin Okula Saldırısı:2",
             "addingDate":"03.10.2023"
         },
         {
             "name": "blackclover",
             "title": "Black Clover",
             "episodeNumber":"349",
+            "episodeName":"Ekip Toplanıyor",
             "addingDate":"03.10.2023"
         }
         ,
@@ -169,6 +194,7 @@
             "name": "naruto",
             "title": "Naruto",
             "episodeNumber":"696",
+            "episodeName":"Final Savaşı:3",
             "addingDate":"02.10.2023"
         }
         ,
@@ -176,6 +202,7 @@
             "name": "onepiece",
             "title": "One Piece",
             "episodeNumber":"1091",
+            "episodeName":"Alabora",
             "addingDate":"02.10.2023"
         }
         ,
@@ -183,6 +210,7 @@
             "name": "onepunchman",
             "title": "One Punch Man",
             "episodeNumber":"194",
+            "episodeName":"Korkak Kral",
             "addingDate":"02.10.2023"
         }
         ,
@@ -190,18 +218,21 @@
             "name": "bleach",
             "title": "Bleach",
             "episodeNumber":"637",
+            "episodeName":"Gizli Kapı:2",
             "addingDate":"02.10.2023"
         },
         {
             "name": "beelzebub",
             "title": "Beelzebub",
             "episodeNumber":"269",
+            "episodeName":"İblislerin Okula Saldırısı:1",
             "addingDate":"01.10.2023"
         },
         {
             "name": "blackclover",
             "title": "Black Clover",
             "episodeNumber":"348",
+            "episodeName":"Asta'nın Eğitimi:2",
             "addingDate":"01.10.2023"
         }
         ,               
@@ -209,6 +240,7 @@
             "name": "naruto",
             "title": "Naruto",
             "episodeNumber":"695",
+            "episodeName":"Final Savaşı:2",
             "addingDate":"01.10.2023"
         }
         ,
@@ -216,6 +248,7 @@
             "name": "onepiece",
             "title": "One Piece",
             "episodeNumber":"1090",
+            "episodeName":"En Güçlü Gemi",
             "addingDate":"01.10.2023"
         }
         ,
@@ -223,6 +256,7 @@
             "name": "onepunchman",
             "title": "One Punch Man",
             "episodeNumber":"193",
+            "episodeName":"Yaşlı Beyaz Kurt",
             "addingDate":"30.09.2023"
         }
         ,
@@ -230,24 +264,28 @@
             "name": "bleach",
             "title": "Bleach",
             "episodeNumber":"636",
+            "episodeName":"Gizli Kapı:1",
             "addingDate":"30.09.2023"
         },
         {
             "name": "beelzebub",
             "title": "Beelzebub",
             "episodeNumber":"268",
+            "episodeName":"İblisler Geliyor",
             "addingDate":"30.09.2023"
         },
         {
             "name": "blackclover",
             "title": "Black Clover",
             "episodeNumber":"347",
+            "episodeName":"Asta'nın Eğitimi:1",
             "addingDate":"29.09.2023"
         },
         {
             "name": "naruto",
             "title": "Naruto",
             "episodeNumber":"694",
+            "episodeName":"Final Savaşı:1",
             "addingDate":"29.09.2023"
         }
         ,
@@ -255,6 +293,7 @@
             "name": "onepiece",
             "title": "One Piece",
             "episodeNumber":"1089",
+            "episodeName":"Gemilerin Çarpışması",
             "addingDate":"29.09.2023"
         }
         ,
@@ -262,6 +301,7 @@
             "name": "onepunchman",
             "title": "One Punch Man",
             "episodeNumber":"192",
+            "episodeName":"Boynuz Kulağı Geçer",
             "addingDate":"29.09.2023"
         }
         ,
@@ -269,24 +309,28 @@
             "name": "bleach",
             "title": "Bleach",
             "episodeNumber":"635",
+            "episodeName":"Koruma",
             "addingDate":"28.09.2023"
         },
         {
             "name": "beelzebub",
             "title": "Beelzebub",
             "episodeNumber":"267",
+            "episodeName":"Sakin Olması Beklenen Gün",
             "addingDate":"28.09.2023"
         },
         {
             "name": "blackclover",
             "title": "Black Clover",
             "episodeNumber":"346",
+            "episodeName":"Yeni Dostlar",
             "addingDate":"28.09.2023"
         },
         {
             "name": "naruto",
             "title": "Naruto",
             "episodeNumber":"693",
+            "episodeName":"Kurtarma",
             "addingDate":"27.09.2023"
         }
         ,
@@ -294,6 +338,7 @@
             "name": "onepiece",
             "title": "One Piece",
             "episodeNumber":"1088",
+            "episodeName":"Bilinmeyen Sular",
             "addingDate":"27.09.2023"
         }
         ,
@@ -301,6 +346,7 @@
             "name": "onepunchman",
             "title": "One Punch Man",
             "episodeNumber":"191",
+            "episodeName":"Öğrenci vs Usta",
             "addingDate":"26.09.2023"
         }
         ,
@@ -308,18 +354,21 @@
             "name": "bleach",
             "title": "Bleach",
             "episodeNumber":"634",
+            "episodeName":"Saldırı",
             "addingDate":"26.09.2023"
         },
         {
             "name": "beelzebub",
             "title": "Beelzebub",
             "episodeNumber":"266",
+            "episodeName":"Davetsiz Misafir",
             "addingDate":"26.09.2023"
         },
         {
             "name": "blackclover",
             "title": "Black Clover",
             "episodeNumber":"345",
+            "episodeName":"Ağır Yenilgi",
             "addingDate":"25.09.2023"
         }
 
